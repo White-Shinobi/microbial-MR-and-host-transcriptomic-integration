@@ -1,0 +1,176 @@
+accession	family	feature_id	feature_name	model	phenotype_class	analysis_role	exposure_n	cohort	ldsc_h2	ldsc_h2_se	ldsc_h2_z	source_gwas_path
+GCST90671836	module	MF0014	Arabinose degradation	Linear	module	primary	16017	Swedish	0.0138	0.0283	0.487632508833922	data/raw/gwas/microbiome_swedish/GCST90671836/GCST90671836.h.tsv.gz
+GCST90671902	module	MF0090	Ethanol production I	Linear	module	primary	16017	Swedish	0.0049	0.0266	0.184210526315789	data/raw/gwas/microbiome_swedish/GCST90671902/GCST90671902.h.tsv.gz
+GCST90671882	module	MF0067	Glycolysis (preparatory phase)	Linear	module	primary	16017	Swedish	0.0394	0.0274	1.43795620437956	data/raw/gwas/microbiome_swedish/GCST90671882/GCST90671882.h.tsv.gz
+GCST90667521	module	M00719	Ihk-Irr (virulence regulation) two-component regulatory system	continuous relative abundance	module	primary	12652	HUNT	0.0364	0.0388	0.938144329896907	data/raw/gwas/microbiome_hunt/GCST90667521/GCST90667521.h.tsv.gz
+GCST90667241	module	M00228	Putative glutamine transport system	continuous relative abundance	module	primary	12652	HUNT	0.04	0.032	1.25	data/raw/gwas/microbiome_hunt/GCST90667241/GCST90667241.h.tsv.gz
+GCST90671866	module	MF0048	Serine degradation	Linear	module	primary	16017	Swedish	0.0409	0.0282	1.45035460992908	data/raw/gwas/microbiome_swedish/GCST90671866/GCST90671866.h.tsv.gz
+GCST90671832	module	MF0010	Sucrose degradation I	Linear	module	primary	16017	Swedish	0.0138	0.0284	0.485915492957746	data/raw/gwas/microbiome_swedish/GCST90671832/GCST90671832.h.tsv.gz
+GCST90671868	module	MF0050	Threonine degradation II	Linear	module	primary	16017	Swedish	0.0147	0.029	0.506896551724138	data/raw/gwas/microbiome_swedish/GCST90671868/GCST90671868.h.tsv.gz
+GCST90671860	module	MF0041	Valine degradation I	Linear	module	primary	16017	Swedish	0.0238	0.0323	0.736842105263158	data/raw/gwas/microbiome_swedish/GCST90671860/GCST90671860.h.tsv.gz
+GCST90671139	species		Actinomyces graevenitzii hMGS.05799	Linear	abundance	primary	16017	Swedish	0.0175	0.0267	0.655430711610487	data/raw/gwas/microbiome_swedish/GCST90671139/GCST90671139.h.tsv.gz
+GCST90670917	species	GCF_900048895.1	Acutalibacter timonensis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670917/GCST90670917.h.tsv.gz
+GCST90667011	species	hMGS.05851	Adlercreutzia hattorii	continuous relative abundance	abundance	primary	12652	HUNT	0.0183	0.0342	0.535087719298246	data/raw/gwas/microbiome_hunt/GCST90667011/GCST90667011.h.tsv.gz
+GCST90670376	species	GCF_001406815.1	Agathobacter faecis	Linear	abundance	primary	16017	Swedish	0.0396	0.0288	1.375	data/raw/gwas/microbiome_swedish/GCST90670376/GCST90670376.h.tsv.gz
+GCST90666743	species	hMGS.00526	Agathobacter sp000434275	continuous relative abundance	abundance	primary	12652	HUNT	0.0147	0.0356	0.412921348314607	data/raw/gwas/microbiome_hunt/GCST90666743/GCST90666743.h.tsv.gz
+GCST90670635	species	GCA_902363675.1	Agathobacter sp000434275	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670635/GCST90670635.h.tsv.gz
+GCST90666855	species	hMGS.01496	Alectryocaccomicrobium faecavium	continuous relative abundance	abundance	primary	12652	HUNT	0.0563	0.035	1.60857142857143	data/raw/gwas/microbiome_hunt/GCST90666855/GCST90666855.h.tsv.gz
+GCST90670572	species	GCA_025144665.1	Alistipes A ihumii	Linear	abundance	primary	16017	Swedish	0.0517	0.0327	1.58103975535168	data/raw/gwas/microbiome_swedish/GCST90670572/GCST90670572.h.tsv.gz
+GCST90670417	species	GCA_025145285.1	Alistipes onderdonkii	Linear	abundance	primary	16017	Swedish	0.0104	0.0273	0.380952380952381	data/raw/gwas/microbiome_swedish/GCST90670417/GCST90670417.h.tsv.gz
+GCST90670394	species	GCF_000154465.1	Alistipes putredinis	Linear	abundance	primary	16017	Swedish	-0.0251	0.0252	-0.996031746031746	data/raw/gwas/microbiome_swedish/GCST90670394/GCST90670394.h.tsv.gz
+GCST90670806	species	GCF_900103425.1	Allisonella histaminiformans	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670806/GCST90670806.h.tsv.gz
+GCST90666720	species	hMGS.00421	Anaerobutyricum soehngenii	continuous relative abundance	abundance	primary	12652	HUNT	0.0042	0.0321	0.130841121495327	data/raw/gwas/microbiome_hunt/GCST90666720/GCST90666720.h.tsv.gz
+GCST90666671	species	hMGS.00257	Anaerostipes hadrus A	continuous relative abundance	abundance	primary	12652	HUNT	-0.0074	0.0374	-0.197860962566845	data/raw/gwas/microbiome_hunt/GCST90666671/GCST90666671.h.tsv.gz
+GCST90667065	species	hMGS.07321	Angelakisella massiliensis	continuous relative abundance	abundance	primary	12652	HUNT	-0.0189	0.0344	-0.549418604651163	data/raw/gwas/microbiome_hunt/GCST90667065/GCST90667065.h.tsv.gz
+GCST90666910	species	hMGS.02524	Avimonas A narfia	continuous relative abundance	abundance	primary	12652	HUNT	0.0574	0.0374	1.53475935828877	data/raw/gwas/microbiome_hunt/GCST90666910/GCST90666910.h.tsv.gz
+GCST90666742	species	hMGS.00511	Bacteroides clarus	continuous relative abundance	abundance	primary	12652	HUNT	-0.0127	0.0309	-0.411003236245955	data/raw/gwas/microbiome_hunt/GCST90666742/GCST90666742.h.tsv.gz
+GCST90666783	species	hMGS.00805	Bacteroides faecis	continuous relative abundance	abundance	primary	12652	HUNT	-2e-04	0.0375	-0.0053333333333333	data/raw/gwas/microbiome_hunt/GCST90666783/GCST90666783.h.tsv.gz
+GCST90666790	species	hMGS.00839	Bacteroides nordii	continuous relative abundance	abundance	primary	12652	HUNT	-0.0341	0.0327	-1.04281345565749	data/raw/gwas/microbiome_hunt/GCST90666790/GCST90666790.h.tsv.gz
+GCST90670374	species	GCF_000010425.1	Bifidobacterium adolescentis	Linear	abundance	primary	16017	Swedish	0.0481	0.041	1.17317073170732	data/raw/gwas/microbiome_swedish/GCST90670374/GCST90670374.h.tsv.gz
+GCST90666557	species	hMGS.00019	Bifidobacterium bifidum	continuous relative abundance	abundance	primary	12652	HUNT	0.0389	0.0387	1.00516795865633	data/raw/gwas/microbiome_hunt/GCST90666557/GCST90666557.h.tsv.gz
+GCST90670385	species	GCF_001025135.1	Bifidobacterium bifidum	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670385/GCST90670385.h.tsv.gz
+GCST90670466	species	GCF_001025195.1	Bifidobacterium catenulatum	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670466/GCST90670466.h.tsv.gz
+GCST90670372	species	GCF_000196555.1	Bifidobacterium longum	Linear	abundance	primary	16017	Swedish	0.0469	0.0296	1.58445945945946	data/raw/gwas/microbiome_swedish/GCST90670372/GCST90670372.h.tsv.gz
+GCST90670392	species	GCF_001025215.1	Bifidobacterium pseudocatenulatum	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670392/GCST90670392.h.tsv.gz
+GCST90667086	species	hMGS.07731	Bittarella massiliensis A	continuous relative abundance	abundance	primary	12652	HUNT	-0.0137	0.0327	-0.418960244648318	data/raw/gwas/microbiome_hunt/GCST90667086/GCST90667086.h.tsv.gz
+GCST90666706	species	hMGS.00359	Blautia A caecimuris	continuous relative abundance	abundance	primary	12652	HUNT	0.0773	0.0638	1.2115987460815	data/raw/gwas/microbiome_hunt/GCST90666706/GCST90666706.h.tsv.gz
+GCST90666868	species	hMGS.01642	Blautia A luti	continuous relative abundance	abundance	primary	12652	HUNT	-0.0155	0.034	-0.455882352941176	data/raw/gwas/microbiome_hunt/GCST90666868/GCST90666868.h.tsv.gz
+GCST90670875	species	GCF_009707925.1	Blautia A luti	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670875/GCST90670875.h.tsv.gz
+GCST90670473	species	GCA_025147765.1	Blautia A obeum	Linear	abundance	primary	16017	Swedish	0.0085	0.0248	0.342741935483871	data/raw/gwas/microbiome_swedish/GCST90670473/GCST90670473.h.tsv.gz
+GCST90670852	species	GCF_013304385.1	Blautia A sp900066505	Linear	abundance	primary	16017	Swedish	-0.0431	0.0285	-1.51228070175439	data/raw/gwas/microbiome_swedish/GCST90670852/GCST90670852.h.tsv.gz
+GCST90671181	species	GCF_013300825.1	Blautia A wexlerae B	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671181/GCST90671181.h.tsv.gz
+GCST90671159	species	GCF_014384965.1	Butyribacter hominis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671159/GCST90671159.h.tsv.gz
+GCST90670529	species	GCA_001414325.1	Butyribacter intestini	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670529/GCST90670529.h.tsv.gz
+GCST90670498	species	GCA_900757655.1	CAG-103 sp900757655	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670498/GCST90670498.h.tsv.gz
+GCST90666772	species	hMGS.00736	CAG-170 sp000436735	continuous relative abundance	abundance	primary	12652	HUNT	0.0379	0.0347	1.09221902017291	data/raw/gwas/microbiome_hunt/GCST90666772/GCST90666772.h.tsv.gz
+GCST90666823	species	hMGS.01165	CAG-170 sp900553545	continuous relative abundance	abundance	primary	12652	HUNT	0.041	0.0343	1.19533527696793	data/raw/gwas/microbiome_hunt/GCST90666823/GCST90666823.h.tsv.gz
+GCST90670634	species	GCA_000434195.1	CAG-245 sp000434195	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670634/GCST90670634.h.tsv.gz
+GCST90670732	species	GCA_905213875.1	CAG-269 sp905213875	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670732/GCST90670732.h.tsv.gz
+GCST90670562	species	GCA_000437855.1	CAG-273 sp000437855	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670562/GCST90670562.h.tsv.gz
+GCST90671134	species	GCA_934162325.1	CAG-302 sp934162325	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671134/GCST90671134.h.tsv.gz
+GCST90670492	species	GCA_003539625.1	CAG-313 sp003539625	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670492/GCST90670492.h.tsv.gz
+GCST90666653	species	hMGS.00197	CAG-314 sp000437915	continuous relative abundance	abundance	primary	12652	HUNT	0.0176	0.0361	0.487534626038781	data/raw/gwas/microbiome_hunt/GCST90666653/GCST90666653.h.tsv.gz
+GCST90670792	species	GCF_003435815.1	CAG-317 sp000433215	Linear	abundance	primary	16017	Swedish	0.025	0.0301	0.830564784053156	data/raw/gwas/microbiome_swedish/GCST90670792/GCST90670792.h.tsv.gz
+GCST90670644	species	GCA_000433315.1	CAG-345 sp000433315	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670644/GCST90670644.h.tsv.gz
+GCST90670478	species	GCA_003486385.1	CAG-882 sp003486385	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670478/GCST90670478.h.tsv.gz
+GCST90670468	species	GCA_001916965.1	COE1 sp001916965	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670468/GCST90670468.h.tsv.gz
+GCST90670966	species	GCA_018715025.1	Caccousia avistercoris	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670966/GCST90670966.h.tsv.gz
+GCST90671147	species		Cag-433 hMGS.05835	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671147/GCST90671147.h.tsv.gz
+GCST90671051	species	GCA_018369015.1	Catenibacillus sp018369015	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671051/GCST90671051.h.tsv.gz
+GCST90666954	species	hMGS.03548	Christensenella hongkongensis	continuous relative abundance	abundance	primary	12652	HUNT	0.0432	0.0375	1.152	data/raw/gwas/microbiome_hunt/GCST90666954/GCST90666954.h.tsv.gz
+GCST90670684	species	GCF_000577815.1	Clostridium saudiense	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish/GCST90670684/GCST90670684.h.tsv.gz
+GCST90670630	species	GCF_014287815.1	Clostridium sp001916075	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish/GCST90670630/GCST90670630.h.tsv.gz
+GCST90666647	species	hMGS.00185	Clostridium sp900540255	continuous relative abundance	abundance	primary	12652	HUNT	0.0015	0.0328	0.0457317073170731	data/raw/gwas/microbiome_hunt/GCST90666647/GCST90666647.h.tsv.gz
+GCST90670494	species	GCA_900540255.1	Clostridium sp900540255	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish/GCST90670494/GCST90670494.h.tsv.gz
+GCST90666994	species	hMGS.05755	Collinsella aerofaciens hMGS.05755	continuous relative abundance	abundance	primary	12652	HUNT	-0.0113	0.0314	-0.359872611464968	data/raw/gwas/microbiome_hunt/GCST90666994/GCST90666994.h.tsv.gz
+GCST90666813	species	hMGS.01048	Coprobacillus cateniformis	continuous relative abundance	abundance	primary	12652	HUNT	-0.0105	0.0343	-0.306122448979592	data/raw/gwas/microbiome_hunt/GCST90666813/GCST90666813.h.tsv.gz
+GCST90670769	species	GCF_009767585.1	Coprobacillus cateniformis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish/GCST90670769/GCST90670769.h.tsv.gz
+GCST90670384	species	GCF_001404675.1	Coprococcus eutactus A	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670384/GCST90670384.h.tsv.gz
+GCST90666672	species	hMGS.00259	Coprococcus sp000154245	continuous relative abundance	abundance	primary	12652	HUNT	0.0036	0.035	0.102857142857143	data/raw/gwas/microbiome_hunt/GCST90666672/GCST90666672.h.tsv.gz
+GCST90666585	species	hMGS.00053	Coprococcus sp900066115	continuous relative abundance	abundance	primary	12652	HUNT	0.0159	0.0361	0.440443213296399	data/raw/gwas/microbiome_hunt/GCST90666585/GCST90666585.h.tsv.gz
+GCST90670925	species	GCA_018223415.1	Copromonas sp900541255	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670925/GCST90670925.h.tsv.gz
+GCST90671235	species	GCF_014334055.1	Dysosmobacter A sp014334055	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671235/GCST90671235.h.tsv.gz
+GCST90666871	species	hMGS.01687	Dysosmobacter excrementavium	continuous relative abundance	abundance	primary	12652	HUNT	-0.005	0.0375	-0.133333333333333	data/raw/gwas/microbiome_hunt/GCST90666871/GCST90666871.h.tsv.gz
+GCST90670881	species	GCA_019118505.1	Dysosmobacter excrementavium	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670881/GCST90670881.h.tsv.gz
+GCST90667049	species	hMGS.06911	Dysosmobacter faecalis	continuous relative abundance	abundance	primary	12652	HUNT	0.0454	0.0393	1.15521628498728	data/raw/gwas/microbiome_hunt/GCST90667049/GCST90667049.h.tsv.gz
+GCST90671032	species		Dysosmobacter hMGS.03207	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671032/GCST90671032.h.tsv.gz
+GCST90670899	species	GCA_900544615.1	Dysosmobacter sp900544615	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670899/GCST90670899.h.tsv.gz
+GCST90666669	species	hMGS.00252	Dysosmobacter welbionis	continuous relative abundance	abundance	primary	12652	HUNT	0.0872	0.065	1.34153846153846	data/raw/gwas/microbiome_hunt/GCST90666669/GCST90666669.h.tsv.gz
+GCST90670711	species	GCA_900553295.1	Egerieenecus merdigallinarum	Linear	abundance	primary	16017	Swedish	0.0412	0.0287	1.43554006968641	data/raw/gwas/microbiome_swedish/GCST90670711/GCST90670711.h.tsv.gz
+GCST90667052	species	hMGS.06989	Egerieenecus sp900553315	continuous relative abundance	abundance	primary	12652	HUNT	0.0221	0.0366	0.603825136612022	data/raw/gwas/microbiome_hunt/GCST90667052/GCST90667052.h.tsv.gz
+GCST90671057	species	GCA_904420065.1	Emergencia sp904420065	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671057/GCST90671057.h.tsv.gz
+GCST90666895	species	hMGS.02189	Enterocloster asparagiformis	continuous relative abundance	abundance	primary	12652	HUNT	0.0324	0.0353	0.917847025495751	data/raw/gwas/microbiome_hunt/GCST90666895/GCST90666895.h.tsv.gz
+GCST90670927	species	GCA_025149125.1	Enterocloster asparagiformis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670927/GCST90670927.h.tsv.gz
+GCST90670551	species	GCF_001517625.2	Enterocloster sp001517625	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670551/GCST90670551.h.tsv.gz
+GCST90666957	species	hMGS.03827	Enterocloster sp900753815	continuous relative abundance	abundance	primary	12652	HUNT	0.0389	0.0384	1.01302083333333	data/raw/gwas/microbiome_hunt/GCST90666957/GCST90666957.h.tsv.gz
+GCST90666657	species	hMGS.00208	Eubacterium F sp900539115	continuous relative abundance	abundance	primary	12652	HUNT	0.0407	0.0346	1.17630057803468	data/raw/gwas/microbiome_hunt/GCST90666657/GCST90666657.h.tsv.gz
+GCST90670460	species	GCA_000434995.1	Eubacterium R sp000434995	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670460/GCST90670460.h.tsv.gz
+GCST90666594	species	hMGS.00066	Eubacterium R sp000436835	continuous relative abundance	abundance	primary	12652	HUNT	-0.009	0.0317	-0.28391167192429	data/raw/gwas/microbiome_hunt/GCST90666594/GCST90666594.h.tsv.gz
+GCST90671277	species	GCA_018711685.1	Excrementavichristensenella intestinipullorum	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671277/GCST90671277.h.tsv.gz
+GCST90670409	species	GCF_023347235.1	Faecalibacterium prausnitzii A	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670409/GCST90670409.h.tsv.gz
+GCST90670780	species	GCF_002549775.1	Faecalibacterium prausnitzii F	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670780/GCST90670780.h.tsv.gz
+GCST90666682	species	hMGS.00290	Faecalibacterium prausnitzii J	continuous relative abundance	abundance	primary	12652	HUNT	0.0509	0.0364	1.39835164835165	data/raw/gwas/microbiome_hunt/GCST90666682/GCST90666682.h.tsv.gz
+GCST90670588	species	GCA_900539945.1	Faecalibacterium sp900539945	Linear	abundance	primary	16017	Swedish	0.0162	0.0297	0.545454545454545	data/raw/gwas/microbiome_swedish/GCST90670588/GCST90670588.h.tsv.gz
+GCST90666958	species	hMGS.03869	Faecaligallichristensenella faecipullorum	continuous relative abundance	abundance	primary	12652	HUNT	-0.0011	0.0345	-0.0318840579710144	data/raw/gwas/microbiome_hunt/GCST90666958/GCST90666958.h.tsv.gz
+GCST90670554	species	GCF_900104635.1	Faecalimonas phoceensis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670554/GCST90670554.h.tsv.gz
+GCST90670835	species	GCA_900553265.1	Faecivicinus sp900553265	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670835/GCST90670835.h.tsv.gz
+GCST90670428	species	GCA_000434635.1	Faecousia sp000434635	Linear	abundance	primary	16017	Swedish	0.0407	0.0283	1.43816254416961	data/raw/gwas/microbiome_swedish/GCST90670428/GCST90670428.h.tsv.gz
+GCST90670748	species	GCA_900545515.1	Faecousia sp000435995	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670748/GCST90670748.h.tsv.gz
+GCST90666580	species	hMGS.00046	Fimenecus sp000432435	continuous relative abundance	abundance	primary	12652	HUNT	0.0043	0.0329	0.130699088145897	data/raw/gwas/microbiome_hunt/GCST90666580/GCST90666580.h.tsv.gz
+GCST90670408	species	GCA_000432435.1	Fimenecus sp000432435	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670408/GCST90670408.h.tsv.gz
+GCST90670781	species	GCA_900542565.1	Fimisoma avicola	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670781/GCST90670781.h.tsv.gz
+GCST90666874	species	hMGS.01706	Fimivivens sp900113995	continuous relative abundance	abundance	primary	12652	HUNT	0.0524	0.036	1.45555555555556	data/raw/gwas/microbiome_hunt/GCST90666874/GCST90666874.h.tsv.gz
+GCST90666960	species	hMGS.03891	Flavonifractor avistercoris	continuous relative abundance	abundance	primary	12652	HUNT	0.025	0.0352	0.710227272727273	data/raw/gwas/microbiome_hunt/GCST90666960/GCST90666960.h.tsv.gz
+GCST90671223	species	GCF_014384905.1	Fumia xinanensis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671223/GCST90671223.h.tsv.gz
+GCST90670986	species	GCA_902362365.1	GCA-900066495 sp902362365	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670986/GCST90670986.h.tsv.gz
+GCST90671245	species	GCF_014384795.1	Gehongia tenuis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671245/GCST90671245.h.tsv.gz
+GCST90670546	species	GCF_018784445.1	Gemmiger sp900540775	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670546/GCST90670546.h.tsv.gz
+GCST90666919	species	hMGS.02733	Gordonibacter pamelaeae	continuous relative abundance	abundance	primary	12652	HUNT	0.0453	0.0355	1.27605633802817	data/raw/gwas/microbiome_hunt/GCST90666919/GCST90666919.h.tsv.gz
+GCST90671072	species	GCA_900761905.1	HGM14224 sp900761905	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671072/GCST90671072.h.tsv.gz
+GCST90670990	species	GCA_004340125.1	Harryflintia acetispora	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670990/GCST90670990.h.tsv.gz
+GCST90667057	species	hMGS.07107	Instestinimonas A gabonensis	continuous relative abundance	abundance	primary	12652	HUNT	0.0093	0.0355	0.261971830985916	data/raw/gwas/microbiome_hunt/GCST90667057/GCST90667057.h.tsv.gz
+GCST90671259	species	GCA_019421015.1	JAHZGC01 sp019421015	Linear	abundance	primary	16017	Swedish	-0.0145	0.0256	-0.56640625	data/raw/gwas/microbiome_swedish/GCST90671259/GCST90671259.h.tsv.gz
+GCST90671193	species	GCA_019114465.1	Lachnoclostridium A avicola	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671193/GCST90671193.h.tsv.gz
+GCST90671075	species	GCF_000765215.1	Lachnoclostridium B sp000765215	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671075/GCST90671075.h.tsv.gz
+GCST90671115	species		Lawsonibacter hMGS.05443	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671115/GCST90671115.h.tsv.gz
+GCST90670813	species	GCA_902362775.1	Lawsonibacter sp900066645	Linear	abundance	primary	16017	Swedish	0.0015	0.0289	0.0519031141868512	data/raw/gwas/microbiome_swedish/GCST90670813/GCST90670813.h.tsv.gz
+GCST90671218	species	GCA_900543485.1	Lentihominibacter excrementipullorum	Linear	abundance	primary	16017	Swedish	0.0317	0.0268	1.18283582089552	data/raw/gwas/microbiome_swedish/GCST90671218/GCST90671218.h.tsv.gz
+GCST90671214	species	GCA_902362435.1	Lentihominibacter sp900066305	Linear	abundance	primary	16017	Swedish	3e-04	0.0276	0.0108695652173913	data/raw/gwas/microbiome_swedish/GCST90671214/GCST90671214.h.tsv.gz
+GCST90671285	species	GCA_905193765.1	Lentihominibacter sp905193765	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671285/GCST90671285.h.tsv.gz
+GCST90670555	species	GCA_900540045.1	Limiplasma merdipullorum	Linear	abundance	primary	16017	Swedish	0.0308	0.0315	0.977777777777778	data/raw/gwas/microbiome_swedish/GCST90670555/GCST90670555.h.tsv.gz
+GCST90670796	species	GCF_004341945.1	Longicatena caecimuris	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670796/GCST90670796.h.tsv.gz
+GCST90671237	species	GCA_900169975.1	Marseille-P3106 sp900169975	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671237/GCST90671237.h.tsv.gz
+GCST90671001	species	GCA_003435055.1	Marvinbryantia sp900066075	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671001/GCST90671001.h.tsv.gz
+GCST90670838	species	GCF_900199515.1	Massilicoli timonensis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670838/GCST90670838.h.tsv.gz
+GCST90666614	species	hMGS.00099	Mediterraneibacter faecis	continuous relative abundance	abundance	primary	12652	HUNT	0.0426	0.0347	1.22766570605187	data/raw/gwas/microbiome_hunt/GCST90666614/GCST90666614.h.tsv.gz
+GCST90666624	species	hMGS.00124	Mediterraneibacter lactaris	continuous relative abundance	abundance	primary	12652	HUNT	0.028	0.031	0.903225806451613	data/raw/gwas/microbiome_hunt/GCST90666624/GCST90666624.h.tsv.gz
+GCST90670827	species	GCF_001754075.1	Merdimonas faecis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670827/GCST90670827.h.tsv.gz
+GCST90670698	species	GCA_900547455.1	Negativibacillus faecipullorum	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670698/GCST90670698.h.tsv.gz
+GCST90670550	species	GCA_000435195.1	Negativibacillus sp000435195	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish/GCST90670550/GCST90670550.h.tsv.gz
+GCST90666750	species	hMGS.00595	Onthomonas sp900545815	continuous relative abundance	abundance	primary	12652	HUNT	0.0238	0.0325	0.732307692307692	data/raw/gwas/microbiome_hunt/GCST90666750/GCST90666750.h.tsv.gz
+GCST90670784	species	GCF_014202695.1	Oribacterium sinus	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670784/GCST90670784.h.tsv.gz
+GCST90667067	species	hMGS.07334	Paralachnospira dongpingensis	continuous relative abundance	abundance	primary	12652	HUNT	0.0601	0.0422	1.42417061611374	data/raw/gwas/microbiome_hunt/GCST90667067/GCST90667067.h.tsv.gz
+GCST90667054	species	hMGS.07052	Pararuminococcus gallinarum	continuous relative abundance	abundance	primary	12652	HUNT	0.0437	0.0341	1.28152492668622	data/raw/gwas/microbiome_hunt/GCST90667054/GCST90667054.h.tsv.gz
+GCST90670457	species	GCF_000205025.1	Parasutterella excrementihominis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670457/GCST90670457.h.tsv.gz
+GCST90670943	species	GCF_900128465.1	Pauljensenia bouchesdurhonensis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670943/GCST90670943.h.tsv.gz
+GCST90671190	species	GCA_019425105.1	Pauljensenia sp019425105	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671190/GCST90671190.h.tsv.gz
+GCST90670427	species	GCF_003269275.1	Phascolarctobacterium faecium	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670427/GCST90670427.h.tsv.gz
+GCST90671012	species	GCF_900104615.1	Phocea massiliensis	Linear	abundance	primary	16017	Swedish	0.0208	0.0341	0.609970674486804	data/raw/gwas/microbiome_swedish/GCST90671012/GCST90671012.h.tsv.gz
+GCST90670890	species	GCA_003477405.1	Pseudobutyricicoccus sp003477405	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670890/GCST90670890.h.tsv.gz
+GCST90671138	species	GCF_900291955.1	Pseudoruminococcus massiliensis	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671138/GCST90671138.h.tsv.gz
+GCST90666747	species	hMGS.00582	QAMH01 sp900544245	continuous relative abundance	abundance	primary	12652	HUNT	0.0115	0.0334	0.344311377245509	data/raw/gwas/microbiome_hunt/GCST90666747/GCST90666747.h.tsv.gz
+GCST90671093	species	GCA_003150405.1	QAMM01 sp003150405	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671093/GCST90671093.h.tsv.gz
+GCST90666975	species	hMGS.04318	QAMM01 sp902766785	continuous relative abundance	abundance	primary	12652	HUNT	0.0097	0.0317	0.305993690851735	data/raw/gwas/microbiome_hunt/GCST90666975/GCST90666975.h.tsv.gz
+GCST90666976	species	hMGS.04320	QANA01 sp900554725	continuous relative abundance	abundance	primary	12652	HUNT	0.0348	0.0327	1.06422018348624	data/raw/gwas/microbiome_hunt/GCST90666976/GCST90666976.h.tsv.gz
+GCST90670387	species	GCA_025150425.1	Ruminiclostridium E siraeum	Linear	abundance	primary	16017	Swedish	0.0455	0.0303	1.5016501650165	data/raw/gwas/microbiome_swedish/GCST90670387/GCST90670387.h.tsv.gz
+GCST90666987	species	hMGS.05315	Ruminococcaceae hMGS.05315	continuous relative abundance	abundance	primary	12652	HUNT	0.0244	0.0321	0.7601246105919	data/raw/gwas/microbiome_hunt/GCST90666987/GCST90666987.h.tsv.gz
+GCST90671111	species		Ruminococcaceae hMGS.05315	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671111/GCST90671111.h.tsv.gz
+GCST90670400	species	GCF_008121495.1	Ruminococcus B gnavus	Linear	abundance	primary	16017	Swedish	0.0252	0.0279	0.903225806451613	data/raw/gwas/microbiome_swedish/GCST90670400/GCST90670400.h.tsv.gz
+GCST90666547	species	hMGS.00005	Ruminococcus E bromii B	continuous relative abundance	abundance	primary	12652	HUNT	-0.0203	0.0366	-0.554644808743169	data/raw/gwas/microbiome_hunt/GCST90666547/GCST90666547.h.tsv.gz
+GCST90666607	species	hMGS.00089	Ruthenibacterium lactatiformans	continuous relative abundance	abundance	primary	12652	HUNT	0.0215	0.0537	0.400372439478585	data/raw/gwas/microbiome_hunt/GCST90666607/GCST90666607.h.tsv.gz
+GCST90670407	species	GCA_004557245.1	SFEL01 sp004557245	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670407/GCST90670407.h.tsv.gz
+GCST90670815	species	GCA_900551915.1	Scatenecus faecavium	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670815/GCST90670815.h.tsv.gz
+GCST90666667	species	hMGS.00238	Scatocola faecipullorum	continuous relative abundance	abundance	primary	12652	HUNT	-0.0177	0.0347	-0.510086455331412	data/raw/gwas/microbiome_hunt/GCST90666667/GCST90666667.h.tsv.gz
+GCST90670908	species	GCA_900759385.1	Scatomorpha sp900759385	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670908/GCST90670908.h.tsv.gz
+GCST90666779	species	hMGS.00774	Schaedlerella glycyrrhizinilytica A	continuous relative abundance	abundance	primary	12652	HUNT	0.0435	0.0489	0.889570552147239	data/raw/gwas/microbiome_hunt/GCST90666779/GCST90666779.h.tsv.gz
+GCST90670700	species	GCF_015560805.1	Schaedlerella glycyrrhizinilytica A	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670700/GCST90670700.h.tsv.gz
+GCST90670680	species	GCA_904393115.1	Spyradocola merdavium	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670680/GCST90670680.h.tsv.gz
+GCST90666838	species	hMGS.01277	Streptococcus gordonii	continuous relative abundance	abundance	primary	12652	HUNT	0.0369	0.0361	1.02216066481994	data/raw/gwas/microbiome_hunt/GCST90666838/GCST90666838.h.tsv.gz
+GCST90670495	species	GCF_010120595.1	Streptococcus thermophilus	Linear	abundance	primary	16017	Swedish	0.0058	0.0288	0.201388888888889	data/raw/gwas/microbiome_swedish/GCST90670495/GCST90670495.h.tsv.gz
+GCST90671188	species	GCA_000508865.1	Thomasclavelia sp000508865	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671188/GCST90671188.h.tsv.gz
+GCST90670761	species	GCA_900552925.1	UBA1417 sp900552925	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670761/GCST90670761.h.tsv.gz
+GCST90670586	species	GCA_900547165.1	UBA644 sp900547165	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670586/GCST90670586.h.tsv.gz
+GCST90670564	species	GCA_003522945.1	UBA738 sp003522945	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670564/GCST90670564.h.tsv.gz
+GCST90670687	species	GCA_900542375.1	UMGS1071 sp900542375	Linear	abundance	primary	16017	Swedish	-0.0392	0.0267	-1.46816479400749	data/raw/gwas/microbiome_swedish/GCST90670687/GCST90670687.h.tsv.gz
+GCST90667020	species	hMGS.06036	UMGS1623 sp934647945	continuous relative abundance	abundance	primary	12652	HUNT	0.0298	0.0357	0.834733893557423	data/raw/gwas/microbiome_hunt/GCST90667020/GCST90667020.h.tsv.gz
+GCST90671102	species	GCA_900757905.1	UMGS882 sp900757905	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671102/GCST90671102.h.tsv.gz
+GCST90671209	species	GCA_934479825.1	UMGS882 sp934479825	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671209/GCST90671209.h.tsv.gz
+GCST90670786	species	GCA_900760345.1	V9D3004 sp900760345	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670786/GCST90670786.h.tsv.gz
+GCST90666665	species	hMGS.00232	Ventricola sp900542395	continuous relative abundance	abundance	primary	12652	HUNT	0.0529	0.0328	1.61280487804878	data/raw/gwas/microbiome_hunt/GCST90666665/GCST90666665.h.tsv.gz
+GCST90670517	species	GCA_900542395.1	Ventricola sp900542395	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90670517/GCST90670517.h.tsv.gz
+GCST90666944	species	hMGS.03238	Ventricola sp900548125	continuous relative abundance	abundance	primary	12652	HUNT	0.0383	0.0362	1.05801104972376	data/raw/gwas/microbiome_hunt/GCST90666944/GCST90666944.h.tsv.gz
+GCST90666770	species	hMGS.00733	Ventrimonas sp003480315	continuous relative abundance	abundance	primary	12652	HUNT	-0.0079	0.0342	-0.230994152046784	data/raw/gwas/microbiome_hunt/GCST90666770/GCST90666770.h.tsv.gz
+GCST90667018	species	hMGS.05958	Vescimonas fastidiosa	continuous relative abundance	abundance	primary	12652	HUNT	0.0343	0.0337	1.01780415430267	data/raw/gwas/microbiome_hunt/GCST90667018/GCST90667018.h.tsv.gz
+GCST90671164	species	GCF_018326305.1	Vescimonas fastidiosa	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671164/GCST90671164.h.tsv.gz
+GCST90666993	species	hMGS.05754	Wujia chipingensis	continuous relative abundance	abundance	primary	12652	HUNT	3e-04	0.0333	0.009009009009009	data/raw/gwas/microbiome_hunt/GCST90666993/GCST90666993.h.tsv.gz
+GCST90671210	species	GCF_014333425.1	Zhenpiania hominis	Linear	abundance	primary	16017	Swedish	0.0435	0.0281	1.54804270462633	data/raw/gwas/microbiome_swedish/GCST90671210/GCST90671210.h.tsv.gz

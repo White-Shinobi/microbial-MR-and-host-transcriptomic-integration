@@ -1,0 +1,3 @@
+accession	family	feature_id	feature_name	model	phenotype_class	analysis_role	exposure_n	cohort	ldsc_h2	ldsc_h2_se	ldsc_h2_z	source_gwas_path
+GCST90671190	species	GCA_019425105.1	Pauljensenia sp019425105	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671190/GCST90671190.h.tsv.gz
+GCST90671209	species	GCA_934479825.1	UMGS882 sp934479825	Logistic	presence_absence	primary	16017	Swedish				data/raw/gwas/microbiome_swedish_v2_presence/GCST90671209/GCST90671209.h.tsv.gz
